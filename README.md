@@ -52,8 +52,8 @@ I spent an ungodly amount of time reading Luau code.
     - [A guide to decorate your posts in forum!](https://devforum.roblox.com/t/a-guide-to-decorate-your-posts-in-forum/1762987)
 
 ## Creations
-- [Testing Tools](https://www.roblox.com/games/6107155983/Testing-Tools)
-- [Chillax](https://www.roblox.com/games/2689231458/Chillax)
+- [Testing Tools](https://www.roblox.com/games/6107155983/Testing-Tools) --> head over to the booth and interact with the papers
+- [Chillax](https://www.roblox.com/games/2689231458/Chillax) --> head over to the counter and interact with the laptop
 - [roux land](https://www.roblox.com/games/6129595366/roux-land)
 - [Coolin'](https://www.roblox.com/games/5376010497/Coolin)
 - [Éclaircie](https://www.roblox.com/games/1696139323/claircie)
