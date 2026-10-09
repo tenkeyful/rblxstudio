@@ -8,7 +8,6 @@ Tutorials I've written since I was in 9th grade.
 I spent an ungodly amount of time reading Luau code.
 - Multiple assignment: `local variable1, variable2 = value1, value2`
 - Short-circuit evaluation: `local something = value1 and value2 or value3`
-- Leading underscore variable: `local _unused = value`
 - Global environment table: `_G`
 - `WaitForChild()` with a timeout
 - `do end` block
