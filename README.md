@@ -3,6 +3,7 @@ Tutorials I've written since I was in 9th grade.
 - [Player Joined/Left Message](md.Lua%20Learning/PlayerJoinedOrLeftMessage.md)
 - [Tables In Practice](md.Lua%20Learning/TablesInPractice.md)
 - [Many Ways to Create a Rainbow Effect](md.Lua%20Learning/ManyWaysToCreateARainbowEffect.md)
+- Why does Luau have so much deprecated code? (haven't written a draft of it, i think it's a bad topic)
 
 ## Uncommon/rare idioms and patterns
 I spent an ungodly amount of time reading Luau code.
